@@ -1,0 +1,43 @@
+h1{font-size: 40px;
+    letter-spacing: 30px;
+    text-align: center;
+}
+
+h1:hover{color: fuchsia;}
+
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    color: antiquewhite;
+    background-color: firebrick;
+
+    /* border */
+    border-top: 3px black double; 
+    border-right: 5px black solid;
+    border-bottom: 3px black double;
+    border-left: 5px black solid;
+
+    /* padding */
+    padding-top: 40px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+
+    /* margin */
+    margin-top: 40px;
+    margin-right: 170px;
+    margin-bottom: 34px;
+    margin-left: 43px;
+}
+
+    a{
+        color: aliceblue;
+        padding: 13px;
+        background-color: rgb(122, 5, 5);
+    }
+
+    a:hover{
+        color: rgb(80, 3, 3);
+        background-color: violet;
+    }
