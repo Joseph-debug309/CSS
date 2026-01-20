@@ -35,9 +35,11 @@ h2{
         color: aliceblue;
         padding: 13px;
         background-color: rgb(122, 5, 5);
+        text-decoration: none;
     }
 
     a:hover{
         color: rgb(80, 3, 3);
         background-color: violet;
+        text-decoration: underline;
     }
