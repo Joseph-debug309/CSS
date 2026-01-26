@@ -1,23 +1,35 @@
 #first{
     background-color: black;
     height: 170px;
+    position: relative
 }
 
 .white{
     background-color: white;
     height: 50px;
+    position: relative
 }
 
 #second{
     background-color: red;
     height: 170;
+    position: relative;
 }
 
 #third{
     background-color: green;
     height: 170px;
+    position: relative
 }
 
-#image{
-    
+#jathan{
+    position: absolute;
+    z-index: 10;
+    top: 10%;
+    left: 40%;
+
+}
+
+#ulop{
+    position: relative;
 }
